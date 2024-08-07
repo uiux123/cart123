@@ -361,10 +361,10 @@ nav .fa{
 
   /*responsove the table*/
   th, td {
-    padding: 10px;
+    padding: 7px;
     text-align: center;
     color:black;
-    font-size: 10px;
+    font-size: 6px;
     font-weight:700;
   }
 
